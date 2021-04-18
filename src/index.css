@@ -1,0 +1,70 @@
+body {
+  margin: 0;
+  font-family: "Poppins";
+  font-weight: 700;
+}
+
+.carousel-item{
+  height: 35rem;
+  background: blue;
+  color: white;
+  position: relative;
+  text-align: left;
+}
+
+.container{
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding-bottom: 50px;
+}
+
+.overlay-image {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  top: 0;
+  background-position: center;
+  background-size: cover;
+  opacity: 0.5;
+}
+
+.bg-articles {
+  background-image: url("https://inguat.gob.gt/templates/yootheme/cache/IMG_0996_1-391cdafd.jpeg");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  position: relative;
+  background-attachment: fixed;
+}
+
+.bg-foot {
+  background-image: url("https://inguat.gob.gt/templates/yootheme/cache/IMG_7126-ae7908d4.jpeg");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  position: relative;
+  background-attachment: fixed;
+}
+
+.bg-azul {
+  background-color: #0c3c60;
+}
+
+.bg-azul2 {
+  background-color: #253c84;
+}
+
+.text-azul3 {
+  color: #0c3c60;
+}
+
+.bg-gray1 {
+  background-color: #e8e6e6;
+}
+
+.text-orange1 {
+  color: #f69521;
+}
