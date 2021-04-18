@@ -77,10 +77,17 @@ _Para el desarrollo de este proyecto se ha empleado el siguiente software_
 
 _React_ (https://es.reactjs.org/)
 
-*[Webpack] (https://webpack.js.org/)
-*[Babel] (https://babeljs.io/)
-*[Node.js] (https://nodejs.org/es/)
-*[Bootstrap] (https://getbootstrap.com/)
+_Webpack_
+(https://webpack.js.org/)
+
+_Babel_
+(https://babeljs.io/)
+
+_Node.js_
+(https://nodejs.org/es/)
+
+_Bootstrap_
+(https://getbootstrap.com/)
 
 
 ## Las imagenes y articulos de terceros utilizados en este proyecto han sido empleados con fines educaticos
