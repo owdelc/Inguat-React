@@ -1,5 +1,5 @@
 # Proyecto 1 - Sistemas y Tecnologias WEB
-# clon de INGUAT realizado con React
+# Simulación de INGUAT realizado con React
 
 _El requerimiento del proyecto es tratar de simular lo máximo posible una página web existente, esta página queda a discresión del desarrollador_
 
