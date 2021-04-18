@@ -5,7 +5,7 @@ _El requerimiento del proyecto es tratar de simular lo máximo posible una pági
 
 _En esta ocasión se seleccionó la pagina oficial del Instituto Guatemalteco de Turismo_
 
-* [INGUAT] (https://inguat.gob.gt)
+[INGUAT] (https://inguat.gob.gt)
 
 _La recreación realizada de la pagina antes mencionada se encuentra en el link a continuacion_
 
@@ -23,19 +23,19 @@ _Node JS_
 _Control de Versiones (a menos de que se cuente con un editor de texto como atom el cual lo tiene integrado)_
 
 _Git_
-*[Git] (https://git-scm.com/)
+(https://git-scm.com/)
 
 _Github Desktop_
-*[Github Desktop] (https://desktop.github.com/)
+(https://desktop.github.com/)
 
 _SmartGit_
-*[SmartGit] (https://www.syntevo.com/smartgit/download/)
+(https://www.syntevo.com/smartgit/download/)
 
 _Git Cola_
-*[Git Cola] (https://git-cola.github.io/downloads)
+(https://git-cola.github.io/downloads)
 
 _GitKraken_
-*[GitKraken] (https://desktop.github.com/)
+(https://desktop.github.com/)
 
 
 ## Instalacion 
@@ -75,7 +75,8 @@ npm run build
 
 _Para el desarrollo de este proyecto se ha empleado el siguiente software_
 
-*[React] (https://es.reactjs.org/)
+_React_ (https://es.reactjs.org/)
+
 *[Webpack] (https://webpack.js.org/)
 *[Babel] (https://babeljs.io/)
 *[Node.js] (https://nodejs.org/es/)
