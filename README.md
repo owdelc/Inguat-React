@@ -24,12 +24,16 @@ _Control de Versiones (a menos de que se cuente con un editor de texto como atom
 
 _Git_
 *[Git] (https://git-scm.com/)
+
 _Github Desktop_
 *[Github Desktop] (https://desktop.github.com/)
+
 _SmartGit_
 *[SmartGit] (https://www.syntevo.com/smartgit/download/)
+
 _Git Cola_
 *[Git Cola] (https://git-cola.github.io/downloads)
+
 _GitKraken_
 *[GitKraken] (https://desktop.github.com/)
 
